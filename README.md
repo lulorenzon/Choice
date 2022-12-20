@@ -1,2 +1,2 @@
-# Choice
-teste de git 
+# Algoritimo
+ exercicios 
